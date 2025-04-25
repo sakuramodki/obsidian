@@ -3,20 +3,35 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
+  "colorGroups": [
+    {
+      "query": "tag:#モデル  ",
+      "color": {
+        "a": 1,
+        "rgb": 9481962
+      }
+    },
+    {
+      "query": "tag:#事例  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "lineSizeMultiplier": 1.54192708333333,
+  "collapse-forces": false,
+  "centerStrength": 0.611979166666667,
+  "repelStrength": 12.2395833333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 127,
+  "scale": 1.0000000000000002,
   "close": false
 }
