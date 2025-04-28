@@ -11,14 +11,35 @@
       "query": "tag:#モデル  ",
       "color": {
         "a": 1,
-        "rgb": 9481962
+        "rgb": 9497320
       }
     },
     {
       "query": "tag:#事例  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 10050774
+      }
+    },
+    {
+      "query": "tag:#メソッド  ",
+      "color": {
+        "a": 1,
+        "rgb": 6058198
+      }
+    },
+    {
+      "query": "tag:#書籍  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048391
+      }
+    },
+    {
+      "query": "tag:#ブログ記事  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
       }
     }
   ],
@@ -32,6 +53,6 @@
   "repelStrength": 12.2395833333333,
   "linkStrength": 1,
   "linkDistance": 127,
-  "scale": 2.1427567301903263,
-  "close": true
+  "scale": 0.7775793528712347,
+  "close": false
 }
