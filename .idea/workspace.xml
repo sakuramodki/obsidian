@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcda3401-46d5-4b90-95cd-6f1529f9f8ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/テンプレート/ブログの要約.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/ソース/書籍/SRE サイトリライアビリティエンジニアリング.md" beforeDir="false" afterPath="$PROJECT_DIR$/ソース/書籍/SRE サイトリライアビリティエンジニアリング.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/ソース/離散的情報/エンジニアリングマネージャ_プロダクトマネージャのための知識体系と読書ガイド.md" beforeDir="false" afterPath="$PROJECT_DIR$/ソース/離散的情報/エンジニアリングマネージャ_プロダクトマネージャのための知識体系と読書ガイド.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/ソース/離散的情報/信頼性向上のためのSLI SLO導入vol.2 - プラットフォームへの導入事例.md" beforeDir="false" afterPath="$PROJECT_DIR$/ソース/離散的情報/信頼性向上のためのSLI SLO導入vol.2 - プラットフォームへの導入事例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/CCPM.md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/CCPM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/Error Budget Policyの策定と運用.md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/Error Budget Policyの策定と運用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/SLI_SLOの定義と導入プロセス.md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/SLI_SLOの定義と導入プロセス.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/SLI_SLOの設計と実装プラクティス.md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/SLI_SLOの設計と実装プラクティス.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/SREチームの構築と運用.md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/SREチームの構築と運用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/インシデント対応とポストモーテムプロセス.md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/インシデント対応とポストモーテムプロセス.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/キャパシティプランニングの手法.md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/キャパシティプランニングの手法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/分散システムのテスト(障害注入など).md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/分散システムのテスト(障害注入など).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/効果的なモニタリングとアラート設計.md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/効果的なモニタリングとアラート設計.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/メソッド/知識体系習得のための読書ガイド活用.md" beforeDir="false" afterPath="$PROJECT_DIR$/メソッド/知識体系習得のための読書ガイド活用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/EM_PdM知識体系モデル.md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/EM_PdM知識体系モデル.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/Error Budget.md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/Error Budget.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/SLI(Service Level Indicator).md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/SLI(Service Level Indicator).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/SLI_SLO_ErrorBudgetの原則.md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/SLI_SLO_ErrorBudgetの原則.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/SLO(Service Level Objective).md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/SLO(Service Level Objective).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/SRE(Site Reliability Engineering).md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/SRE(Site Reliability Engineering).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/SREチームのエンゲージメントモデル.md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/SREチームのエンゲージメントモデル.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/シンプルさの重要性(SRE).md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/シンプルさの重要性(SRE).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/トイル(Toil)の概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/トイル(Toil)の概念.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/自動化の原則(SRE).md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/自動化の原則(SRE).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/モデル/非難のないポストモーテム文化.md" beforeDir="false" afterPath="$PROJECT_DIR$/モデル/非難のないポストモーテム文化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/事例/GoogleにおけるSRE実践の概要.md" beforeDir="false" afterPath="$PROJECT_DIR$/事例/GoogleにおけるSRE実践の概要.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ナレッジ/事例/LINEプラットフォームにおけるSLI_SLO導入事例.md" beforeDir="false" afterPath="$PROJECT_DIR$/事例/LINEプラットフォームにおけるSLI_SLO導入事例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA1-ソフトウェア要求/KA1-ソフトウェア要求.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA12-ソフトウェア品質/KA12-ソフトウェア品質.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA13-ソフトウェアセキュリティ/KA13-ソフトウェアセキュリティ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA2-ソフトウェアアーキテクチャ/KA2-ソフトウェアアーキテクチャ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA2-ソフトウェアアーキテクチャ/subContexts/アーキテクチャスタイル/アーキテクチャスタイル.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA2-ソフトウェアアーキテクチャ/subContexts/ソフトウェア品質特性/ソフトウェア品質特性.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA2-ソフトウェアアーキテクチャ/subContexts/テクニックとソフトスキル/テクニックとソフトスキル.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA3-ソフトウェア設計/KA3-ソフトウェア設計.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA4-ソフトウェア構築/KA4-ソフトウェア構築.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA5-ソフトウェアテスト/KA5-ソフトウェアテスト.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA6-ソフトウェアエンジニアリングオペレーション/KA6-ソフトウェアエンジニアリングオペレーション.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA7-ソフトウェア保守/KA7-ソフトウェア保守.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA8-ソフトウェア構成管理/KA8-ソフトウェア構成管理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/subContexts/KA9-ソフトウェアエンジニアリングマネジメント/KA9-ソフトウェアエンジニアリングマネジメント.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/ソフトウェアエンジニアリング/ソフトウェアエンジニアリング.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/整理済み/概観.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/知の3層モデルによる分析プロンプト.md" beforeDir="false" afterPath="$PROJECT_DIR$/知の3層モデルによる分析プロンプト.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/知りたいこと/Apache Pulser.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/知りたいこと/Event Driven Architecture.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2wDkJXl2r4HXW5JTiVraUz8ZsCC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/整理済み" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sakura\Documents\test\git\整理済み" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\sakura\Documents\test\git" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcda3401-46d5-4b90-95cd-6f1529f9f8ba" name="Changes" comment="" />
+      <created>1745583460917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745583460917</updated>
+      <workItem from="1745583462399" duration="8961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
