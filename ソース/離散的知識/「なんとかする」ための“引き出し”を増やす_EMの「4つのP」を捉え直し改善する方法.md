@@ -1,9 +1,12 @@
 ---
 title: 「なんとかする」ための“引き出し”を増やす。EMの「4つのP」を捉え直し改善する方法
-url: https://levtech.jp/media/article/column/detail_659/ ※URLは仮です。記事内に記載がなかったため。
+url: https://levtech.jp/media/article/column/detail_661/
 author: 広木 大地
 published_date: 2025-05-01
-tags: ブログ, EM, マネジメント
+tags:
+  - ブログ
+  - EM
+  - マネジメント
 ---
 
 # 要約
