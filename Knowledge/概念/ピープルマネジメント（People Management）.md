@@ -9,6 +9,7 @@ tags:
 # ピープルマネジメント（People Management）
 
 ## 概要 (Summary)
+ピープルマネジメントは、人の成長を通じてチームや組織の不確実性を減らしていく活動です。
 ![[Pasted image 20250503024934.png]]
 
 ## 詳細 (Details)
