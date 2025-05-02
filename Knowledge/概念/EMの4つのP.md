@@ -5,8 +5,6 @@ source: https://levtech.jp/media/article/column/detail_661/
 tags:
   - 概念
 ---
-
-
 # EMの4つのP
 
 ## 概要 (Summary)
