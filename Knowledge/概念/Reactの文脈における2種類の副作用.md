@@ -5,6 +5,11 @@ author: uhyo
 published_date: 2025-05-02
 tags:
   - ブログ
+  - 概念
+aliases:
+  - 代替名
+  - 略語
+source: "[書籍名 Chapter X / Blog URL]"
 ---
 # 要約
 
@@ -23,4 +28,15 @@ https://ja.react.dev/learn/keeping-components-pure#where-you-can-cause-side-effe
 > 
 > いろいろ探してもあなたの副作用を書くのに適切なイベントハンドラがどうしても見つからない場合は、コンポーネントから返された JSX に `useEffect` 呼び出しを付加することで副作用を付随させることも可能です。これにより React に、その関数をレンダーの後（その時点なら副作用が許されます）で呼ぶように指示できます。**ただしこれは最終手段であるべきです。**
 
-１つ目を副作用と呼ぶのがそもそも誤解の元で、あくまで「effect = 作用」をReactのライフサイクルで扱うものと
+１つ目を副作用と呼ぶのがそもそも誤解の元で、あくまで「effect = 作用」をReactのライフサイクルで扱うものと考えた方が良い。
+この考え方であれば「コンポーネント外部のステートを書き換える（副作用）」ものは多くが誤った使い方である事がわかる。
+
+## 関連ノート (Related Notes)
+- 
+
+## 未解決の疑問/考察 (Open Questions/Thoughts)
+表示する時にAPIからデータを引いてくるようなのは許されそうな気がする。
+[suspense](https://zenn.dev/uhyo/books/react-concurrent-handson/viewer/what-is-suspense)とかを使うのかな？
+
+## Geminiによる補足
+(Geminiに質問した結果や要約などを記載)
