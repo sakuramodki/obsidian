@@ -1,8 +1,7 @@
 ---
 aliases:
-  - 代替名
-  - 略語
-source: "[書籍名 Chapter X / Blog URL]"
+  - エンジニアリングマネージメント領域
+source: https://levtech.jp/media/article/column/detail_661/
 tags:
   - 概念
 ---
