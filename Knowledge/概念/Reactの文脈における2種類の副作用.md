@@ -6,9 +6,10 @@ published_date: 2025-05-02
 tags:
   - ブログ
   - 概念
+  - React
+  - 副作用
 aliases:
-  - 代替名
-  - 略語
+  - useEffect
 source: "[書籍名 Chapter X / Blog URL]"
 ---
 # 要約
