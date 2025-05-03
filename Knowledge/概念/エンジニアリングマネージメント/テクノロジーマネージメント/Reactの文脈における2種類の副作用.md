@@ -8,6 +8,7 @@ tags:
   - 概念
   - React
   - 副作用
+  - テクノロジーマネージメント
 aliases:
   - useEffect
 source: "[書籍名 Chapter X / Blog URL]"

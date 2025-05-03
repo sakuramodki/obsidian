@@ -4,6 +4,7 @@ aliases:
 source: https://qiita.com/hirokidaichi/items/95678bb1cef32629c317#%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88
 tags:
   - 概念
+  - テクノロジーマネージメント
 ---
 
 # プラットフォームマネジメント（Platform Management）

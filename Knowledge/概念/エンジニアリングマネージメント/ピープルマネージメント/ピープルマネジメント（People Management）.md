@@ -5,6 +5,7 @@ aliases:
 source: https://levtech.jp/media/article/column/detail_661/
 tags:
   - 概念
+  - ピープルマネージメント
 ---
 # ピープルマネジメント（People Management）
 

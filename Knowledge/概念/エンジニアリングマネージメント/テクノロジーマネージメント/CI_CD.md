@@ -4,6 +4,7 @@ aliases:
 source: "[書籍名 Chapter X / Blog URL]"
 tags:
   - 概念
+  - テクノロジーマネージメント
 ---
 
 # CD
