@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-path:以前のまとめ -path:テンプレート",
+  "collapse-filter": true,
+  "search": "path:Knowledge  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 16.40625,
   "linkStrength": 0.440104166666667,
   "linkDistance": 198,
-  "scale": 0.2821737257863835,
+  "scale": 0.3956027377542728,
   "close": false
 }
