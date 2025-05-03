@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"52cd98b43373a9c9","x":-480,"y":-280,"width":400,"height":400,"type":"file","file":"Knowledge/概念/EMの4つのP.md"},
+		{"id":"88647a07222801e9","x":240,"y":-640,"width":400,"height":400,"type":"file","file":"Knowledge/概念/ピープルマネジメント（People Management）.md"},
+		{"id":"7839bc5eb16681b9","x":240,"y":-80,"width":400,"height":400,"type":"file","file":"Knowledge/概念/プラットフォームマネジメント（Platform Management）.md"},
+		{"id":"6026a0ccc5109ac3","x":-1080,"y":0,"width":400,"height":400,"type":"file","file":"Knowledge/概念/プロジェクトマネジメント（Project Management）.md"},
+		{"id":"72a39cac6c813b06","x":-1080,"y":-680,"width":400,"height":400,"type":"file","file":"Knowledge/概念/プロダクトマネジメント（Product Management）.md"}
+	],
+	"edges":[
+		{"id":"f10d09674d36ae22","fromNode":"52cd98b43373a9c9","fromSide":"right","toNode":"88647a07222801e9","toSide":"left"},
+		{"id":"81228766be6d3f74","fromNode":"52cd98b43373a9c9","fromSide":"right","toNode":"7839bc5eb16681b9","toSide":"left"},
+		{"id":"199b468ecd8c2ff4","fromNode":"52cd98b43373a9c9","fromSide":"left","toNode":"6026a0ccc5109ac3","toSide":"right"},
+		{"id":"597a0e4cd0c4e2e2","fromNode":"52cd98b43373a9c9","fromSide":"left","toNode":"72a39cac6c813b06","toSide":"right"}
+	]
+}
