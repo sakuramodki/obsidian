@@ -1,7 +1,7 @@
 ---
 aliases:
-  - 代替名
-  - 略語
+  - プロジェクトマネージメント
+  - プロマネ
 source: "[書籍名 Chapter X / Blog URL]"
 tags:
   - 概念
