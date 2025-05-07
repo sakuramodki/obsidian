@@ -1,10 +1,12 @@
 ---
-title: "無題のファイル"
-url: 
-author: 
-published_date: ""
+title: ObsidianとZettelkastenを使っている話
+url: https://blog-dry.com/entry/2025/05/07/215832
+author: helloyuki
+published_date: 2025-05-07
 tags:
   - ブログ
+  - Obsidian
+  - ZettelKkasten
 ---
 # 要約
 - Literature Notes（文献ノート）
