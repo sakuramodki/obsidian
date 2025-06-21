@@ -4,9 +4,9 @@ kindle-sync:
   title: INSPIRED 熱狂させる製品を生み出すプロダクトマネジメント
   author: マーティ・ケーガン、佐藤真治、関満徳、神月謙一
   asin: B0814STTHV
-  lastAnnotatedDate: '2025-05-20'
+  lastAnnotatedDate: '2025-06-16'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81iN48+R2EL._SY160.jpg'
-  highlightsCount: 334
+  highlightsCount: 392
 ---
 # INSPIRED 熱狂させる製品を生み出すプロダクトマネジメント
 ## Metadata
@@ -229,6 +229,9 @@ MVPはプロトタイプであって製品ではない。 — location: [572](ki
 プロダクトマネジャーは製品開発チームの誰の上司でもない。 — location: [631](kindle://book?action=open&asin=B0814STTHV&location=631) ^ref-15516
 
 ---
+製品開発チームは、困難なビジネス上の問題を長期間かけて解決するために結集した、高度なスキルを持った人々のグループである。 — location: [632](kindle://book?action=open&asin=B0814STTHV&location=632) ^ref-18887
+
+---
 その人間関係は、真の意味での協力である。 — location: [633](kindle://book?action=open&asin=B0814STTHV&location=633) ^ref-38444
 
 ---
@@ -254,6 +257,9 @@ MVPはプロトタイプであって製品ではない。 — location: [572](ki
 
 ---
 パイを切る有効な手段はたくさんある。開発チームごとに違ったタイプのユーザーや顧客に焦点を絞らせることもできるし、それぞれの開発チームが違う種類のデバイスに責任を持つこともある。また、ワークフローやカスタマージャーニーによって、仕事を分けることもできる。 — location: [672](kindle://book?action=open&asin=B0814STTHV&location=672) ^ref-57728
+
+---
+極めて重要なのはプロダクトマネジメントとエンジニアリングとの連携である。 — location: [678](kindle://book?action=open&asin=B0814STTHV&location=678) ^ref-58487
 
 ---
 普通は製品開発のトップとエンジニアリングのトップが集まって、開発チームの規模や仕事の範囲を決める。 — location: [678](kindle://book?action=open&asin=B0814STTHV&location=678) ^ref-59110
@@ -319,6 +325,9 @@ MVPはプロトタイプであって製品ではない。 — location: [572](ki
 自分の顧客に関するデータ分析とその理解は人に任せてはいけない。 — location: [789](kindle://book?action=open&asin=B0814STTHV&location=789) ^ref-2577
 
 ---
+この作業のためにデータアナリストを使っているかもしれないが、自分の顧客に関するデータ分析とその理解は人に任せてはいけない。 — location: [789](kindle://book?action=open&asin=B0814STTHV&location=789) ^ref-38375
+
+---
 ３つ目の重要な貢献となる、多くのプロダクトマネジャーが最も難しいと考える要素は、ビジネスとその仕組みについての理解であり、ビジネスの中で自分の製品が果たす役割を理解することである。 — location: [792](kindle://book?action=open&asin=B0814STTHV&location=792) ^ref-21785
 
 ---
@@ -347,6 +356,9 @@ MVPはプロトタイプであって製品ではない。 — location: [572](ki
 
 ---
 プロダクトマネジャーという役割に必要とされる時間と努力は、あなたが製品とその役割に個人的な情熱を持っていないならば、仕事を続けるのが極めて厳しいレベルだ。 — location: [848](kindle://book?action=open&asin=B0814STTHV&location=848) ^ref-18510
+
+---
+・あなたのユーザーや顧客の専門家になることから始める。学んだことは、良いことも悪いことも積極的に開発チームで共有する。顧客に関しては、質的にも量的にも、あらゆることの理解において開発チームや企業で頼られる人になる。 — location: [851](kindle://book?action=open&asin=B0814STTHV&location=851) ^ref-53833
 
 ---
 プロダクトオーナーというのは、アジャイル開発チームでプロダクトバックログに責任を持つ人の役割の名前である。 — location: [897](kindle://book?action=open&asin=B0814STTHV&location=897) ^ref-58529
@@ -472,6 +484,9 @@ CTO、マネジャー、アーキテクトは、システムの実現を全体�
 何よりもまず、そうした人々を失ってはいけない。辞めたいと思ったり、もっとお金を稼ぐためにマネジャーになりたいと考えたりする理由を与えないように気を配らなければならない。 — location: [1280](kindle://book?action=open&asin=B0814STTHV&location=1280) ^ref-17897
 
 ---
+こうした — location: [1282](kindle://book?action=open&asin=B0814STTHV&location=1282) ^ref-19430
+
+---
 リーダーたちは、それぞれ、彼らの右腕となる人を少なくとも１人は育てていなければいけない。学習は一晩でできるものではないので、こうした人々はめったにいない貴重な存在となる。 — location: [1283](kindle://book?action=open&asin=B0814STTHV&location=1283) ^ref-29342
 
 ---
@@ -574,6 +589,12 @@ GPMは１つの製品開発チームのプロダクトマネジャーを務め�
 技術部門のトップの役割 — location: [1417](kindle://book?action=open&asin=B0814STTHV&location=1417) ^ref-15272
 
 ---
+プロダクトマネジャーがエンジニアリング部門のリーダーと良好な仕事上の関係を持っているなら、それは素晴らしいことだ。 — location: [1422](kindle://book?action=open&asin=B0814STTHV&location=1422) ^ref-48050
+
+---
+初めに、どんな組織について話をしているのかをはっきりさせておこう。それは、アーキテクチャー、エンジニアリング、品質、サイト運営、サイトのセキュリティー、リリース管理、そして通常、市場投入のマネジメントに責任を持つ組織である。このグループは企業の製品やサービスを作り、運用する責任を負っている。 — location: [1425](kindle://book?action=open&asin=B0814STTHV&location=1425) ^ref-18273
+
+---
 肩書はさまざまだが、よくあるのがエンジニアリングVP、あるいは最高技術責任者（CTO）である。 — location: [1428](kindle://book?action=open&asin=B0814STTHV&location=1428) ^ref-21963
 
 ---
@@ -602,6 +623,9 @@ GPMは１つの製品開発チームのプロダクトマネジャーを務め�
 
 ---
 市場投入を評価する基準はいくつかあり、リリース手段の一貫性とリリースの頻度、市場投入または発表されたソフトウェアの品質や信頼性などが含まれる。 — location: [1443](kindle://book?action=open&asin=B0814STTHV&location=1443) ^ref-7027
+
+---
+技術組織が、高品質な製品を、迅速に、確実に、繰り返し、市場に送り出せるようにする。市場投入を評価する基準はいくつかあり、リリース手段の一貫性とリリースの頻度、市場投入または発表されたソフトウェアの品質や信頼性などが含まれる。 — location: [1442](kindle://book?action=open&asin=B0814STTHV&location=1442) ^ref-4228
 
 ---
 アーキテクチャー — location: [1447](kindle://book?action=open&asin=B0814STTHV&location=1447) ^ref-44637
@@ -727,7 +751,13 @@ CTOには企業のエンジニアリング組織を代表する広報担当者�
 １．第１のケースでは、実はまだチームが経営陣に信頼されておらず、経営陣は開発チームに大きな自由を与えることに抵抗を感じている。 ２．第２のケースでは、リーダーたちが基盤の一部と見なしてきたものを開発チームが変えたがっている。 — location: [1581](kindle://book?action=open&asin=B0814STTHV&location=1581) ^ref-42568
 
 ---
+製品開発には頻繁にあることだが、物事は結局トレードオフなのだ。この場合で言えば、開発チームの自律性と基盤の活用の間のトレードオフである。 — location: [1595](kindle://book?action=open&asin=B0814STTHV&location=1595) ^ref-44059
+
+---
 開発チームのスキルレベル — location: [1603](kindle://book?action=open&asin=B0814STTHV&location=1603) ^ref-16096
+
+---
+ある。（ — location: [1604](kindle://book?action=open&asin=B0814STTHV&location=1604) ^ref-62965
 
 ---
 １）Aチーム──適切な判断をすることを任されている、経験を積んだチーム。（２）Bチーム──意図は正しいが、多くの状況で適切な判断をするために必要な経験がなく、何らかの手助けが必要になる可能性があるチーム。（３）Cチーム──自分たちが何を知らないのかさえまだわかっていない可能性がある未熟なチーム。こうした開発チームは、かなり指導しないと、意図せず重大な問題を起こす可能性がある。 — location: [1604](kindle://book?action=open&asin=B0814STTHV&location=1604) ^ref-13764
@@ -763,6 +793,9 @@ CTOには企業のエンジニアリング組織を代表する広報担当者�
 説明責任のレベル — location: [1639](kindle://book?action=open&asin=B0814STTHV&location=1639) ^ref-18991
 
 ---
+委譲と自律性に付随する説明責任のレベルである。もし説明責任がなく、特に有能なAチーム — location: [1640](kindle://book?action=open&asin=B0814STTHV&location=1640) ^ref-37583
+
+---
 １．総合的な製品ビジョン ２．それぞれの開発チームに割り当てられた具体的なビジネス上の目標 — location: [1651](kindle://book?action=open&asin=B0814STTHV&location=1651) ^ref-49607
 
 ---
@@ -775,10 +808,19 @@ CTOには企業のエンジニアリング組織を代表する広報担当者�
 私は製品開発ロードマップを、「チームが取り組むように求められている機能やプロジェクトの優先順位リスト」と定義している。 — location: [1728](kindle://book?action=open&asin=B0814STTHV&location=1728) ^ref-40636
 
 ---
+製品開発の世界では、おおよそ製品開発ロードマップについて同じ定義を持っているが、多少バリエーションもある。私は製品開発ロードマップを、「チームが取り組むように求められている機能やプロジェクトの優先順位リスト」と定義している。 — location: [1727](kindle://book?action=open&asin=B0814STTHV&location=1727) ^ref-59874
+
+---
+ある。 製品開発ロードマップは、 — location: [1730](kindle://book?action=open&asin=B0814STTHV&location=1730) ^ref-4739
+
+---
 ロードマップにはバグとか最適化といった細かなことは含まれず、要求される機能、プロジェクト、よくイニシアチブと呼ばれる複数のチームによる大きな取り組みが含まれているのが普通だ。そして、それぞれの項目には納期や、少なくとも作業時間が含まれていることが多い。 — location: [1732](kindle://book?action=open&asin=B0814STTHV&location=1732) ^ref-7143
 
 ---
 最善を尽くしても、多くの場合において製品開発ロードマップは残念な結果で終わる。 — location: [1747](kindle://book?action=open&asin=B0814STTHV&location=1747) ^ref-44564
+
+---
+製品開発ロードマップの問題点 最善を尽くしても、多くの場合において製品開発ロードマップは残念な結果で終わる。 — location: [1746](kindle://book?action=open&asin=B0814STTHV&location=1746) ^ref-48951
 
 ---
 第１の不都合な真実は、製品開発のアイデアの半分以上はうまくいかないことである。 — location: [1748](kindle://book?action=open&asin=B0814STTHV&location=1748) ^ref-12083
@@ -791,6 +833,9 @@ CTOには企業のエンジニアリング組織を代表する広報担当者�
 
 ---
 有能な製品開発チームは不都合な真実を理解し、否定するのではなく受け入れる。 — location: [1768](kindle://book?action=open&asin=B0814STTHV&location=1768) ^ref-23077
+
+---
+これこそが製品発見のあるべき姿だ。そして、製品発見 — location: [1770](kindle://book?action=open&asin=B0814STTHV&location=1770) ^ref-39231
 
 ---
 本当に問題なのは、「ロードマップ」と題された文書にアイデアのリストを書いた途端、どれだけ多くの免責事項が書かれていても、会社中の人々がそれらの項目を約束事項として理解してしまうことである。 — location: [1775](kindle://book?action=open&asin=B0814STTHV&location=1775) ^ref-9795
@@ -826,6 +871,9 @@ IT企業においては、ビジネスにおける脈絡は主に、次に挙げ
 製品開発チームに取り組むべき具体的なビジネスの目標を与えるのは経営陣の責任である。 — location: [1818](kindle://book?action=open&asin=B0814STTHV&location=1818) ^ref-23060
 
 ---
+第１の目的と違うのは、今は経営陣が製品のアイデアよりも業績を優先していることだ。逆に、ずいぶん皮肉なことだが、私たちのほうが時々、業績を重視するように経営陣を説得する必要が出てきたりする。 — location: [1819](kindle://book?action=open&asin=B0814STTHV&location=1819) ^ref-3800
+
+---
 ソリューションのアイデアを誰が考えたかや、その人がどれだけ頭がいいかに関係なく、最初のアプローチはうまくいかないことが多い。自分たちのチームには当てはまらないと強がらず、そうなる可能性を受け入れよう。 — location: [1829](kindle://book?action=open&asin=B0814STTHV&location=1829) ^ref-3960
 
 ---
@@ -847,6 +895,9 @@ IT企業においては、ビジネスにおける脈絡は主に、次に挙げ
 これらすべての根底にあるのは、製品開発チームが身をもって学んだ教訓である。つまり、アイデアの多くは期待した結果につながらないし、ものになるアイデアは、ビジネスとして成功と見なせる段階までたどり着くのに、イテレーションを何度も積み重ねる必要があるということだ。 — location: [1850](kindle://book?action=open&asin=B0814STTHV&location=1850) ^ref-63422
 
 ---
+鍵になるのは、コミットメントのあらゆる悩みの根本原因が、その時期にあるのを理解することである。あまりにも早すぎるのだ。それは、私たちがその義務を果たせるかどうかがわかる前であり、もっと困ったことに、私たちが提供するものが顧客の問題を解決できるかがわかる前なのである。 — location: [1857](kindle://book?action=open&asin=B0814STTHV&location=1857) ^ref-19281
+
+---
 持続的な製品発見と市場投入のモデルでは、時間と資金を費やして製品品質のものを作る前にこうした問いに答えることが製品発見の最も重要な役割である。 — location: [1860](kindle://book?action=open&asin=B0814STTHV&location=1860) ^ref-27624
 
 ---
@@ -854,6 +905,9 @@ IT企業においては、ビジネスにおける脈絡は主に、次に挙げ
 
 ---
 重要なのは、その組織が抵抗なくハイインテグリティーコミットメントを固め、それを会社に説明することができ、頻繁ではないにしても、そのようなコミットメントがあれば、会社は安心して製品開発チームに市場投入を任せることができるということだ。 — location: [1876](kindle://book?action=open&asin=B0814STTHV&location=1876) ^ref-47171
+
+---
+でもこの種のコミットメントは最小化されるものの、無くなることはない。重要なのは、その組織が抵抗なくハイインテグリティーコミットメントを固め、それを会社に説明することができ、頻繁ではないにしても、そのようなコミットメントがあれば、会社は安心して製品開発チームに市場投入を任せることができるということだ。 — location: [1875](kindle://book?action=open&asin=B0814STTHV&location=1875) ^ref-59594
 
 ---
 製品ビジョンは、だいたい２年から５年ぐらいの間に実現しようと考える未来を描いたものである。 — location: [1883](kindle://book?action=open&asin=B0814STTHV&location=1883) ^ref-64677
@@ -967,6 +1021,9 @@ OKR手法 — location: [2065](kindle://book?action=open&asin=B0814STTHV&locatio
 各製品開発チームは、割り当てられたそれぞれの目標について、主要な結果を提案する責任を持つ。OKRを各チームや組織に対して設定するにあたって、四半期ごとに再調整をおこなうことが通常の方法である。 — location: [2094](kindle://book?action=open&asin=B0814STTHV&location=2094) ^ref-47661
 
 ---
+目標を達成できるようにする）。各製品開発チームは、割り当てられたそれぞれの目標について、主要な結果を提案する責任を持つ。OKRを各チームや組織に対して設定するにあたって、四半期ごとに再調整をおこなうことが通常の方法である。 — location: [2094](kindle://book?action=open&asin=B0814STTHV&location=2094) ^ref-621
+
+---
 OKRシステムを使っている企業では、製品開発チームが解決を求められる問題は製品開発チームのOKRを通じて伝えられ、確認される。OKRはまた、各開発チームが確実に会社の目標に沿って活動するためにも役立つ。 — location: [2113](kindle://book?action=open&asin=B0814STTHV&location=2113) ^ref-26087
 
 ---
@@ -1012,9 +1069,148 @@ OKRシステムを使っている企業では、製品開発チームが解決�
 製品に関するエバンジェリズムは、何年か前にガイ・カワサキが言ったように「夢を売ること」だ。 — location: [2199](kindle://book?action=open&asin=B0814STTHV&location=2199) ^ref-17471
 
 ---
+製品に関するエバンジェリズム 製品に関するエバンジェリズムは、何年か前にガイ・カワサキが言ったように「夢を売ること」だ。 — location: [2198](kindle://book?action=open&asin=B0814STTHV&location=2198) ^ref-26196
+
+---
 もしあなたがプロダクトマネジャー、特に大企業のプロダクトマネジャーで、エバンジェリズムが不得意ならば、あなたの製品開発の努力は日の目を見る前に失敗する可能性が極めて大きい。 — location: [2203](kindle://book?action=open&asin=B0814STTHV&location=2203) ^ref-21290
 
 ---
 傭兵ではなく伝道師のチームを作ることがどれほど大切かについてこれまで話してきたが、エバンジェリズムは、これを実現するための鍵となる責務である。 — location: [2206](kindle://book?action=open&asin=B0814STTHV&location=2206) ^ref-5358
+
+---
+
+会社が中規模から大規模であれば、プロダクトマーケティング部門が、顧客や販売部門に対するエバンジェリストの役割を果たすのが普通だ。 — location: [2244](kindle://book?action=open&asin=B0814STTHV&location=2244) ^ref-54601
+
+---
+あなたのエバンジェリズムは開発チームに集中させる必要がある。 — location: [2246](kindle://book?action=open&asin=B0814STTHV&location=2246) ^ref-17747
+
+---
+第２部では製品開発チームについて詳しく述べ、第３部ではそれぞれの開発チームが集中すべきことをどうやって決めるかについて掘り下げた。第４部では製品開発チームがどのように仕事をするかを説明する。そこで扱うのは、成功する製品を発見し市場に投入するために繰り返し使われてきた、テクニック、活動、ベストプラクティスだ。 第４部には「適切なプロセス」というタイトルをつけたが、どれか１つのプロセスが適切だという意味でないことはすぐにわかるだろう。より正確に言えば、それはテクニックと、マインドセットと、文化のコンビネーションを意味している。 特に詳しく踏み込むのは製品発見のテクニックについてである。本書が焦点を当てているのはプロダクトマネジャーであり、プロダクトマネジャーの一番大きな責任は製品の発見だからだ。 プロダクトマネジャーは、時間の大部分を、製品開発チーム、主要なステークホルダー、顧客とともに仕事をすることに使わなければならないし、顧客に愛され、ビジネスに貢献するソリューションを発見しなければならない。 さらに、覚えていてほしいのが、プロダクトマネジャーとプロダクトデザイナーは、市場投入活動の間にエンジニアから出る質問にいつでも確実に答えられるようにしておく必要があるということだ。こうした市場投入に関する質問に答えるための時間は、通常、１日におよそ30分から１時間である。 製品の発見 概要 製品開発チームの多くは、かなり困難な問題の解決に取り組んでいて、そのソリューションを実現するためには、多くの場合、最終的に相当複雑なシステムが必要になる。ほとんどの開発チームが取り組まなければならない非常に重要な課題は２つある。 第１は、必要とされるカスタマーソリューションを、細部も含めて発見することである。それには、同じ… — location: [2282](kindle://book?action=open&asin=B0814STTHV&location=2282) ^ref-39922
+
+---
+リスク） ・このソリューションは私たちのビジネスに貢献するだろうか？（ — location: [2355](kindle://book?action=open&asin=B0814STTHV&location=2355) ^ref-31407
+
+---
+１．何を作るべきか教えてくれるように顧客（あるいは経営幹部やステークホルダー）に頼むことはできない。 — location: [2360](kindle://book?action=open&asin=B0814STTHV&location=2360) ^ref-65473
+
+---
+２．最も重要なことは、説得力のある価値を確立することである。 — location: [2367](kindle://book?action=open&asin=B0814STTHV&location=2367) ^ref-45939
+
+---
+難しい。ユーザビリティーや性能を改善すること — location: [2369](kindle://book?action=open&asin=B0814STTHV&location=2369) ^ref-12986
+
+---
+中心的価値がなければ、実質的に何も生んでいないのと同じだ。 — location: [2369](kindle://book?action=open&asin=B0814STTHV&location=2369) ^ref-31359
+
+---
+３．エンジニアリングと同じように難しく重要だが、優れたユーザーエクスペリエンスを考え出すのはそれ以上に困難であることが多く、さらに製品の成功には欠かせない。 — location: [2371](kindle://book?action=open&asin=B0814STTHV&location=2371) ^ref-64404
+
+---
+４．機能、デザイン、技術は、本質的に絡み合っている。 — location: [2375](kindle://book?action=open&asin=B0814STTHV&location=2375) ^ref-25002
+
+---
+肝心なのは、これら３つすべてが完全に絡み合っていることだ。このことは、プロダクトマネジャー、プロダクトデザイナー、テックリードが物理的に隣同士に座ることを強く勧める唯一最大の理由である。 — location: [2381](kindle://book?action=open&asin=B0814STTHV&location=2381) ^ref-54829
+
+---
+５．アイデアの多くはうまくいかないものだし、うまくいくものも何回かのイテレーションが必要になると予期する。 — location: [2383](kindle://book?action=open&asin=B0814STTHV&location=2383) ^ref-16031
+
+---
+どのアイデアが顧客の役に立ち、どのアイデアが役に立たないかを前もって知ることはできない。 — location: [2385](kindle://book?action=open&asin=B0814STTHV&location=2385) ^ref-26824
+
+---
+根本的な問題を解決するために必要ならば、進んでさまざまな方法を試してみることだ。 — location: [2389](kindle://book?action=open&asin=B0814STTHV&location=2389) ^ref-26484
+
+---
+６．アイデアの妥当性は実際のユーザーや顧客で立証しなければならない。 — location: [2390](kindle://book?action=open&asin=B0814STTHV&location=2390) ^ref-44997
+
+---
+これは、本物の製品を開発するために時間や費用を費やす前におこなう必要がある。あとではいけない。 — location: [2394](kindle://book?action=open&asin=B0814STTHV&location=2394) ^ref-55600
+
+---
+７．製品発見の目標は、できる限り迅速に、コストをかけずにアイデアの妥当性を立証することである。 — location: [2395](kindle://book?action=open&asin=B0814STTHV&location=2395) ^ref-27789
+
+---
+アイデアにも製品にもさまざまな種類があり、対処しなければならないリスクも（価値のリスク、ユーザビリティーのリスク、実現可能性のリスク、事業実現性のリスクなど）さまざまである。だから、多様な状況に対応できる幅広いテクニックを持っていなければならない。 — location: [2398](kindle://book?action=open&asin=B0814STTHV&location=2398) ^ref-47499
+
+---
+８．製品発見の間に、アイデアの実現可能性を立証する必要がある。あとではだめだ。 — location: [2401](kindle://book?action=open&asin=B0814STTHV&location=2401) ^ref-18526
+
+---
+実現可能性は、開発を決めたあとではなく、決める前に確認する必要がある。 — location: [2403](kindle://book?action=open&asin=B0814STTHV&location=2403) ^ref-23241
+
+---
+９．製品発見の間に、アイデアの事業実現性を立証する必要がある。あとではだめだ。 — location: [2406](kindle://book?action=open&asin=B0814STTHV&location=2406) ^ref-14965
+
+---
+製品が開発されたあとで、プロダクトマネジャーがビジネスの本質的側面を理解していなかったのがわかることほど、メンバーの士気とプロダクトマネジャーへの信頼を裏切ることはない。 — location: [2410](kindle://book?action=open&asin=B0814STTHV&location=2410) ^ref-21910
+
+---
+10．共同学習が大切である。 — location: [2412](kindle://book?action=open&asin=B0814STTHV&location=2412) ^ref-21017
+
+---
+個人的には、一緒に仕事をする開発チームに、「それを作ってもいいのか？」という問いについても考えるように勧めている。 — location: [2420](kindle://book?action=open&asin=B0814STTHV&location=2420) ^ref-57071
+
+---
+ほとんどの場合は倫理の問題であって、法的な問題ではない。 — location: [2422](kindle://book?action=open&asin=B0814STTHV&location=2422) ^ref-9537
+
+---
+議論には適切な判断力をもって慎重に臨まなければならない。 — location: [2432](kindle://book?action=open&asin=B0814STTHV&location=2432) ^ref-47150
+
+---
+頼もしいことに、現代の製品発見テクニックをマスターした開発チームは、大体１週間に10～20イテレーションというオーダーでテストができる。 — location: [2440](kindle://book?action=open&asin=B0814STTHV&location=2440) ^ref-4968
+
+---
+多くのイテレーションは、プロダクトマネジャー、デザイナー、テックリードの手の中で終わってしまう。 — location: [2443](kindle://book?action=open&asin=B0814STTHV&location=2443) ^ref-16792
+
+---
+製品発見の仕事の大半には多くのフレーミングやプランニングは必要ない。 — location: [2502](kindle://book?action=open&asin=B0814STTHV&location=2502) ^ref-48774
+
+---
+多くの努力を費やしても明らかにそうはいかず、何らかのフレーミングや真の問題解決が極めて重要になる場合がある。大規模なプロジェクトや、特にイニシアチブ（多くの開発チームにまたがるプロジェクト）は、典型的な例である。 — location: [2504](kindle://book?action=open&asin=B0814STTHV&location=2504) ^ref-49019
+
+---
+整合性を確保し、主要なリスクを特定するためには、製品発見をどのようにフレーミングすればいいかを考える。 — location: [2507](kindle://book?action=open&asin=B0814STTHV&location=2507) ^ref-37679
+
+---
+１は、目的の明確化と整合性という点において、開発チーム全員が確実に同じ立場に立つようにすることである。 — location: [2509](kindle://book?action=open&asin=B0814STTHV&location=2509) ^ref-15205
+
+---
+自分たちが集中すべきビジネスの目標と、顧客のために解決しようとしている具体的な問題、その問題をどのユーザーや顧客のために解決しようとしているのか、そして何をもって成功というのかについて合意を形成する必要がある。 — location: [2510](kindle://book?action=open&asin=B0814STTHV&location=2510) ^ref-53022
+
+---
+第２の目的は、製品発見の仕事の中で取り組まなければならない大きなリスクを特定することである。 — location: [2513](kindle://book?action=open&asin=B0814STTHV&location=2513) ^ref-34603
+
+---
+よく見かける２つの例は、先走ってすぐに技術のリスク、中でも性能や規模のリスクに取り組もうとする開発チームと、ユーザビリティーのリスクに的を絞る開発チームである。 — location: [2516](kindle://book?action=open&asin=B0814STTHV&location=2516) ^ref-5303
+
+---
+両方とも妥当なリスクだが、私の経験では、概して取り組みやすいリスクである。 — location: [2519](kindle://book?action=open&asin=B0814STTHV&location=2519) ^ref-53713
+
+---
+しばしば厄介なビジネスのリスクがある。 — location: [2523](kindle://book?action=open&asin=B0814STTHV&location=2523) ^ref-49561
+
+---
+プロダクトマネジャーと、デザイナー、テックリードが、これらのどの分野にも重大なリスクはないと考えたら、市場投入に進むのが普通だ。 — location: [2531](kindle://book?action=open&asin=B0814STTHV&location=2531) ^ref-45647
+
+---
+製品発見のための時間と、検証テクニックは、重大なリスクがあるとわかっている状況や、開発チームのメンバーの意見が一致しない状況で使うのが望ましい。 — location: [2535](kindle://book?action=open&asin=B0814STTHV&location=2535) ^ref-15927
+
+---
+市場機会評価は、製品開発の大部分をカバーするように設計されている。 — location: [2539](kindle://book?action=open&asin=B0814STTHV&location=2539) ^ref-32298
+
+---
+カスタマーレターは、より大きなプロジェクトや構想を意図したものだ。 — location: [2541](kindle://book?action=open&asin=B0814STTHV&location=2541) ^ref-30576
+
+---
+スタートアップキャンバスは、まったく新しい製品ラインを作る場合や、新しいビジネスを始めるときのためにある。 — location: [2542](kindle://book?action=open&asin=B0814STTHV&location=2542) ^ref-45196
+
+---
+市場機会評価のテクニック — location: [2566](kindle://book?action=open&asin=B0814STTHV&location=2566) ^ref-40258
+
+---
+１．この仕事はどんなビジネスの目標を達成しようとしているのか？（ビジネスの目標：Objective） ２．何をもって成功とするか？（主要な結果：Key results） ３．この仕事は顧客のどんな問題を解決するのか？（顧客の問題：Customer problem） ４．どんな種類の顧客をターゲットにするか？（ターゲット市場：Target market） — location: [2569](kindle://book?action=open&asin=B0814STTHV&location=2569) ^ref-13816
+
+---
+Amazonが製品を開発する方法の中心となっているのはいくつかのテクニックであり、その１つはワーキングバックワードプロセスと呼ばれている。製品開発を架空のプレスリリースから始めるというものだ。 — location: [2610](kindle://book?action=open&asin=B0814STTHV&location=2610) ^ref-23991
 
 ---
