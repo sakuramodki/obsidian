@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:note.com)"
+    ],
+    "deny": []
+  }
+}
