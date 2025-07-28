@@ -1,7 +1,7 @@
 # SLO駆動型インシデント検知システム (SLO-Driven Incident Detection System)
 
 ## モデル概要
-Service Level Objective (SLO) を基軸とした顧客影響度重視のインシデント検知・対応システム。技術指標ではなく顧客体験指標に基づくアラート設計により、意味のある通知のみを生成する。
+Service Level Objective (SLO) を基軸とした顧客影響度重視のインシデント検知・対応システム。技術指標ではなく顧客体験指標に基づくアラート設計により、アラート疲労の軽減、インシデント対応の迅速化、SREチームの生産性向上といった意味のある通知のみを生成する。
 
 ## モデル適用条件
 - **顧客体験重視**: 顧客影響度が最重要指標
@@ -40,7 +40,7 @@ class AvailabilitySLI:
           AND status_code < 500
           AND timestamp >= NOW() - INTERVAL '{time_window.total_seconds()}' SECOND
         """
-        return self._execute_query(query)
+        return self._execute_query(query) # 実際のデータソース（Prometheus, BigQuery, Datadogなど）からデータを取得する処理を想定
     
     def _get_total_requests(self, time_window: timedelta) -> int:
         """総リクエスト数取得"""  
@@ -50,7 +50,7 @@ class AvailabilitySLI:
         WHERE service = '{self.service_name}'
           AND timestamp >= NOW() - INTERVAL '{time_window.total_seconds()}' SECOND
         """
-        return self._execute_query(query)
+        return self._execute_query(query) # 実際のデータソース（Prometheus, BigQuery, Datadogなど）からデータを取得する処理を想定
 
 # 使用例
 availability_sli = AvailabilitySLI("payment-service")
@@ -86,7 +86,7 @@ class LatencySLI:
           AND timestamp >= NOW() - INTERVAL '{time_window.total_seconds()}' SECOND
         ORDER BY response_time_ms
         """
-        return self._execute_query(query)
+        return self._execute_query(query) # 実際のデータソース（Prometheus, BigQuery, Datadogなど）からデータを取得する処理を想定
     
     def _calculate_percentile(self, values: List[float], percentile: float) -> float:
         """パーセンタイル値計算"""
@@ -143,7 +143,7 @@ class UserJourneySLI:
           AND timestamp >= NOW() - INTERVAL '{time_window.total_seconds()}' SECOND
         ORDER BY journey_id, step_order
         """
-        return self._execute_query(query)
+        return self._execute_query(query) # 実際のデータソース（Prometheus, BigQuery, Datadogなど）からデータを取得する処理を想定
     
     def _calculate_success_rate(self, journey_results: List[Dict]) -> float:
         """ジャーニー成功率計算"""
@@ -237,7 +237,7 @@ class ErrorBudgetCalculator:
         # 消費率計算
         consumption_rate = current_error_rate / error_budget if error_budget > 0 else 0
         
-        # バーンレート計算（1時間あたりの消費率）
+        # バーンレート計算（エラーバジェットが目標達成に必要な速度の何倍で消費されているか）
         burn_rate = consumption_rate * (1 / (window_days * 24))
         
         return {
@@ -312,7 +312,7 @@ class SLOAlertManager:
     
     def _evaluate_alert_condition(self, condition: str, slo_status: Dict) -> bool:
         """アラート条件評価"""
-        # 簡略化された条件評価（実際にはより詳細な実装が必要）
+        # 簡略化された条件評価（実際にはより詳細な実装が必要。例: 過去N分間の平均バーンレート、複数のSLIの組み合わせなど）
         burn_rate = slo_status.get("burn_rate", 0)
         error_budget_remaining = slo_status.get("error_budget_remaining", 100)
         
@@ -550,7 +550,7 @@ alert_channels:
 ### 2. アラート精度向上
 - **バーンレートベース**: エラーバジェット消費速度による段階的アラート
 - **複数時間窓**: 短期・長期の複数時間窓での評価
-- **コンテキスト考慮**: 時間帯・曜日・季節性の考慮
+- **コンテキスト考慮**: 時間帯・曜日・季節性の考慮（例: 夜間はバーンレートの閾値を緩める、特定のイベント期間中はアラートを抑制するなど）
 
 ### 3. 運用効率化
 - **自動化**: 定型的な評価・通知の完全自動化
