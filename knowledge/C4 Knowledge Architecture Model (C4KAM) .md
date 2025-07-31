@@ -155,6 +155,15 @@ knowledge/
 
 **命名規則:** サブフォルダ名は、`.claude/agents`内に定義されているエージェント名（例: `ProductManager`, `EngingeeringManager`, `SRE`）と一致させる必要があります。
 
+**体系化された技術領域の分類:**
+特定の技術領域（例: スクラム、DevOps、マイクロサービスなど）が世間的に体系化されており、関連する複数のモデルが存在する場合は、その専門領域のサブフォルダ内にさらに専用のサブディレクトリを作成します。
+
+例: `knowledge/03_Patterns_and_Processes/EngingeeringManager/スクラム/`
+
+この際、親となる専門領域のディレクトリ（例: `EngingeeringManager`）直下には、その体系化された技術領域全体の概要や、関連するモデルへのリンクをまとめた目次的なモデル（ハブモデル）を作成します。この目次モデルも、他のモデルと同様に「モデル文書の構造テンプレート」に従って記述します。
+
+例: `knowledge/03_Patterns_and_Processes/EngingeeringManager/スクラム開発モデル.md`
+
 ### Step 6: 関連事例リンク追加
 モデル文書の末尾に実装事例・関連記事のリンクを追加
 
