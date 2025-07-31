@@ -16,7 +16,8 @@
       "Bash(# 重要なパイプ記法のWikilinkを特定\necho \"=== パイプ記法を使用するWikilinkの簡易調査 ===\"\n\nrg '\\[\\[[^\\]]+\\|[^\\]]+\\]\\]' -o -g '*.md' . | sed 's/.*\\[\\[\\([^|]*\\)|\\([^\\]]*\\)\\]\\].*/ターゲット: \\1 -> エイリアス: \\2/' | sort | uniq | head -10\n\necho -e \"\\n=== 特殊なケースの調査 ===\"\n\n# Oracle Problem|オラクル問題 のケース\necho \"Oracle Problem|オラクル問題の参照状況:\"\nrg 'Oracle Problem\\|オラクル問題' -g '*.md' . | head -3\n\necho -e \"\\nCI_CD|CI/CDの参照状況:\"\nrg 'CI_CD\\|CI/CD' -g '*.md' . | head -3)",
       "Bash(# 最終的な問題の総括\necho \"=== Wikilink問題の総括 ===\"\n\necho \"1. 存在しない概念ファイル（重要度：高）\"\nmissing_important=(\"心理的安全性\" \"仮説法（Abduction）\" \"多腕バンディット問題\" \"TOC\" \"アーキテクチャ\" \"DevOps\" \"SRE\" \"MVP\" \"ユーザーリサーチ\" \"蒸発する雲\" \"メタモルフィックテスティング\" \"カナリアリリース\" \"シフトレフト\" \"トイル\")\n\nfor concept in \"${missing_important[@]}\"; do\n    # 参照回数をカウント\n    count=$(rg \"\\[\\[$concept\\]\\]\" -g '*.md' . | wc -l)\n    if [ \"$count\" -gt 0 ]; then\n        echo \"  - $concept (参照回数: $count)\"\n    fi\ndone\n\necho -e \"\\n2. パイプ記法の確認が必要なWikilinkターゲット\"\necho \"  - Oracle Problem|オラクル問題\"\necho \"  - CI_CD|CI/CD\"\necho \"  - プロジェクトマネジメント（Project Management）|プロジェクトマネージメント\"\n\necho -e \"\\n3. 存在確認済み（問題なし）\"\necho \"  - 全ての画像ファイル（Pasted image）\"\necho \"  - 既存の概念ファイル（不確実性、環境不確実性、通信不確実性など）\"\n\necho -e \"\\n4. テンプレートファイルや例示用のWikilinkターゲット\"\necho \"  - 関連する概念A, 関連する手法B\"\necho \"  - 手法A, 手法B\"\necho \"  - ty25148248 (Clippingsフォルダ内の著者識別子)\")",
       "WebFetch(domain:engineering.mercari.com)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "WebFetch(domain:blog.cybozu.io)"
     ],
     "deny": []
   }
