@@ -8,6 +8,6 @@
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
-Clippings/
+# Clippings/
 .idea/
 git.iml
