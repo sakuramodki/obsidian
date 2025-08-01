@@ -20,7 +20,8 @@
       "WebFetch(domain:blog.cybozu.io)",
       "Bash(mv:*)",
       "Bash(rmdir:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(rm:*)"
     ],
     "deny": []
   }
