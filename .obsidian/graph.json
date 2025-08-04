@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:Knowledge  ",
+  "collapse-filter": false,
+  "search": "path:Knowledge -path:knowledge/old  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 16.40625,
   "linkStrength": 0.440104166666667,
   "linkDistance": 198,
-  "scale": 0.13554541100157752,
+  "scale": 0.5236675733910969,
   "close": false
 }
